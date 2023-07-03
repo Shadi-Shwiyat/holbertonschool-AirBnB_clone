@@ -1,0 +1,1 @@
+This repo hold the html and css for the AirBNB clone
